@@ -10,7 +10,7 @@ Here are some info about me:
 - 🌱 I’m currently learning Go and Python languages. 
 - 👯 I’m looking to collaborate on some nice open source project. 
 - 🤔 I’m looking for help with [leanpub-manuscript-tools](https://github.com/davioooh/leanpub-manuscript-tools). 
-- 💬 Ask me about where to eat great [Carbonara](https://en.m.wikipedia.org/wiki/Carbonara) in Orvieto!
+- 💬 Ask me about where to eat great [*Carbonara*](https://en.m.wikipedia.org/wiki/Carbonara) in Orvieto!
 - 📫 To reach me, send a message to *castellettid* [AT] gmail (dot) com.
 - 😄 Pronouns: he/him. 
 - ⚡ Fun fact: I love LEGO!
