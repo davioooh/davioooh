@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm David (a.k.a. [**davioooh**](https://davioooh.com/about)), a freelance software developer based in [Orvieto](https://en.wikipedia.org/wiki/Orvieto), a wonderful town in the middle of Italy (in [Umbria](https://en.wikipedia.org/wiki/Umbria)). In my day to day work I usually focus on back-end development, mainly working with Java and Kotlin.
+I'm David (a.k.a. [**davioooh**](https://davioooh.com/about)), a freelance software developer based in [Orvieto](https://en.wikipedia.org/wiki/Orvieto), a wonderful town in the middle of Italy (in [Umbria](https://en.wikipedia.org/wiki/Umbria)).
+
+In my day to day work I usually focus on back-end development, mainly working with Java and Kotlin.
 
 Here are some info about me:
 
@@ -11,6 +13,4 @@ Here are some info about me:
 - 💬 Ask me about where to eat great [Carbonara](https://en.m.wikipedia.org/wiki/Carbonara) in Orvieto!
 - 📫 To reach me, send a message to *castellettid* [AT] gmail (dot) com.
 - 😄 Pronouns: he/him. 
-<!--
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I love LEGO!
