@@ -4,7 +4,7 @@ I'm David (a.k.a. [**davioooh**](https://davioooh.com/about)), a freelance softw
 
 In my day to day work I usually focus on back-end development, mainly working with Java and Kotlin.
 
-Here is some info about me:
+Some info about me:
 
 - 🔭 I'm currently working on... *legacy code*, what else? 
 - 🌱 I'm currently learning Go and Python languages. 
