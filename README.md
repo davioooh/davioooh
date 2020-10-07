@@ -4,12 +4,12 @@ I'm David (a.k.a. [**davioooh**](https://davioooh.com/about)), a freelance softw
 
 In my day to day work I usually focus on back-end development, mainly working with Java and Kotlin.
 
-Here are some info about me:
+Here is some info about me:
 
-- 🔭 I’m currently working on... *legacy code*, what else? 
-- 🌱 I’m currently learning Go and Python languages. 
-- 👯 I’m looking to collaborate on some nice open source project. 
-- 🤔 I’m looking for help with [leanpub-manuscript-tools](https://github.com/davioooh/leanpub-manuscript-tools). 
+- 🔭 I'm currently working on... *legacy code*, what else? 
+- 🌱 I'm currently learning Go and Python languages. 
+- 👯 I'm looking to collaborate on some nice open source project. 
+- 🤔 I'm looking for help with [leanpub-manuscript-tools](https://github.com/davioooh/leanpub-manuscript-tools). 
 - 💬 Ask me about... where to eat great [*Carbonara*](https://en.m.wikipedia.org/wiki/Carbonara) in Orvieto!
 - 📫 To reach me, send a message to *castellettid* [AT] gmail (dot) com.
 - 😄 Pronouns: he/him. 
