@@ -5,8 +5,8 @@ I'm David (a.k.a. [**davioooh**](https://davidcastelletti.com/chi-sono)), a free
 In my day to day work I usually focus on **back-end** development, mainly working with **Java** and **Kotlin**.
 
 <a href="https://www.linkedin.com/in/davidcastelletti"><img src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://davidcastelletti.com"><img src="https://img.shields.io/badge/website [🇮🇹]-lightgrey?style=for-the-badge" alt="Website" /></a>
-<a href="https://davioooh.com"><img src="https://img.shields.io/badge/davioooh's notes [🇮🇹]-green?style=for-the-badge" alt="davioooh's notes" /></a>
+<a href="https://davidcastelletti.com"><img src="https://img.shields.io/badge/website [IT]-lightgrey?style=for-the-badge" alt="Website" /></a>
+<a href="https://davioooh.com"><img src="https://img.shields.io/badge/davioooh's notes [IT]-green?style=for-the-badge" alt="davioooh's notes" /></a>
 <a href="https://stackoverflow.com/users/1061499/davioooh"><img src="https://img.shields.io/badge/stack overflow-white?style=for-the-badge&logo=stack-overflow" alt="Stack Overflow" /></a>
 
 ---
